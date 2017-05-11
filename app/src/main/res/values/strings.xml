@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VTAS</string>
+    <string name="title_activity_main">Sign In</string>
+    <string name="title_activity_my_location">My Location</string>
+    <string name="title_activity_welcome_screen">Welcome</string>
+    <string name="title_activity_add_vehicle">Add New Vehicle</string>
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="title_activity_my_vehicle2">My Vehicle</string>
+    <string name="title_activity_vehicle_map">Map</string>
+</resources>
